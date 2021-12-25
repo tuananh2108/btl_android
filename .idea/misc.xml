@@ -9,7 +9,7 @@
         <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/drawable/ic_edit_24dp.xml" value="0.2703125" />
         <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
         <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/drawable/side_nav_bar.xml" value="0.2703125" />
-        <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/layout/activity_add_product.xml" value="0.25416666666666665" />
+        <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/layout/activity_add_product.xml" value="0.264" />
         <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/layout/activity_edit_product.xml" value="0.25416666666666665" />
         <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/layout/app_bar_main.xml" value="0.264" />
@@ -20,14 +20,15 @@
         <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/layout/dialog_bill_add_qty_product.xml" value="0.25416666666666665" />
         <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/layout/fragment_bill.xml" value="0.25416666666666665" />
         <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/layout/fragment_first.xml" value="0.25416666666666665" />
-        <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/layout/fragment_product.xml" value="0.25416666666666665" />
+        <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/layout/fragment_product.xml" value="0.2" />
         <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/layout/fragment_second.xml" value="0.25416666666666665" />
         <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/layout/nav_header_main.xml" value="0.25416666666666665" />
-        <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/layout/row_list_product.xml" value="0.25416666666666665" />
+        <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/layout/row_list_product.xml" value="0.1" />
         <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/layout/row_list_product_bill.xml" value="0.4" />
         <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
         <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/menu/menu_action_mode.xml" value="0.25416666666666665" />
         <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/menu/menu_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1962962962962963" />
       </map>
     </option>
   </component>
