@@ -3,6 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Mon_hoc_nam_4/Lap_trinh_nhung/btl_android/app/src/main/res/layout/activity_add_product.xml" value="0.36666666666666664" />
+        <entry key="..\:/Mon_hoc_nam_4/Lap_trinh_nhung/btl_android/app/src/main/res/layout/activity_edit_product.xml" value="0.36666666666666664" />
+        <entry key="..\:/Mon_hoc_nam_4/Lap_trinh_nhung/btl_android/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Mon_hoc_nam_4/Lap_trinh_nhung/btl_android/app/src/main/res/layout/app_bar_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Mon_hoc_nam_4/Lap_trinh_nhung/btl_android/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Mon_hoc_nam_4/Lap_trinh_nhung/btl_android/app/src/main/res/layout/dialog_bill_add_qty_product.xml" value="0.36666666666666664" />
+        <entry key="..\:/Mon_hoc_nam_4/Lap_trinh_nhung/btl_android/app/src/main/res/layout/fragment_bill.xml" value="0.36666666666666664" />
+        <entry key="..\:/Mon_hoc_nam_4/Lap_trinh_nhung/btl_android/app/src/main/res/layout/fragment_product.xml" value="0.36666666666666664" />
+        <entry key="..\:/Mon_hoc_nam_4/Lap_trinh_nhung/btl_android/app/src/main/res/layout/nav_header_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Mon_hoc_nam_4/Lap_trinh_nhung/btl_android/app/src/main/res/layout/row_list_product.xml" value="0.36666666666666664" />
+        <entry key="..\:/Mon_hoc_nam_4/Lap_trinh_nhung/btl_android/app/src/main/res/layout/row_list_product_bill.xml" value="0.36666666666666664" />
+        <entry key="..\:/Mon_hoc_nam_4/Lap_trinh_nhung/btl_android/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Mon_hoc_nam_4/Lap_trinh_nhung/btl_android/app/src/main/res/menu/menu_action_mode.xml" value="0.36666666666666664" />
+        <entry key="..\:/Mon_hoc_nam_4/Lap_trinh_nhung/btl_android/app/src/main/res/menu/menu_main.xml" value="0.36666666666666664" />
         <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/drawable/border.xml" value="0.2703125" />
         <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/drawable/ic_check_circle_24dp.xml" value="0.2703125" />
         <entry key="..\:/mycode/Android/baitaplon/app/src/main/res/drawable/ic_delete_24dp.xml" value="0.2703125" />
